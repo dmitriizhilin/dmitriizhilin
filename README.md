@@ -73,9 +73,3 @@
 
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dmitriizhilin/dmitriizhilin/output/snake.svg" alt="Snake Animation" />
-</p>
